@@ -1,0 +1,156 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-size: 16px;
+	color: #666;
+	margin: 0;
+}
+.principal{
+	width: 1200px;
+	height: 1000px;
+	margin: auto;
+}
+.menu{
+	width: 1200px;
+	height: 50px;
+	background-color: #03112F;
+	text-align: center;
+}
+.menu a{
+	color: #FFFFFF;
+	text-decoration: none;
+	display: inline-block;
+	padding: 2px 16px 16px;
+	margin-top: 12px;
+	border-top: 2px solid transparent;
+}
+.menu a:hover{
+	border-color: #FFEE00;
+	color: #FFEE00;
+}
+.banner{
+	width: 1200px;
+	height: 400px;
+	}
+.corpo{
+	width: 998px;
+	height: 500px;
+	float: left;
+	border-right: 2px solid #03112F;
+}
+.cont1{
+	width: 998px;
+	height: 248px;
+	border-bottom: 2px solid #03112F;
+}
+.cont1 img{
+	height: 248px;
+	float: left;
+	margin-right: 15px
+}
+.cont1 h2{
+	background-color: #FFEE00;
+	color: #333333;
+	font-size: 17px;
+	padding: 15px;
+	margin: 0;
+}
+.paragrafo{
+	text-align: justify;
+	margin-right: 15px;
+	line-height: 20px;
+}
+.saiba{
+	text-align: right;
+	margin-right: 15px;
+}
+.saiba a{
+	color: #333333;
+	font-size: 14px;
+	text-decoration: none;
+}
+.saiba a:hover{
+	text-decoration: underline;
+	color: #000000;
+}
+.cont2{
+	width: 497px;
+	height: 250px;
+	border-right: 2px solid #03112F;
+	float: left;
+}
+.cont3{
+	width: 499px;
+	height: 250px;
+	float: left;
+}
+.publi{
+	width: 200px;
+	height: 500px;
+	float: left;
+		
+}
+.rodape{
+	width: 1200px;
+	height: 30px;
+	background-color: #03112F;
+	clear: both;
+	padding-top: 20px;
+	color: #FFFFFF;
+	text-align: center;
+	font-size: 14px;
+}
+.titulo{
+	background-color: #FFEE00;
+	color: #333333;
+	font-size: 17px;
+	text-align: center;
+	margin: 0;
+	padding: 15px;
+	margin-bottom: 5px;
+}
+.cont2 img{
+	height: 160px;
+	margin-top: 15px;
+}
+.cont3 img{
+	width: 138px;
+}
+.texto{
+	text-align: justify;
+	padding: 0 10px;
+	line-height: 20px;
+}
+.formulario{
+	width: 500px;
+	margin: auto;
+	margin-top: 20px;
+}
+.campo{
+	width: 100%;
+	padding: 15px;
+	margin-bottom: 2px;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-size: 16px;
+	resize: none;
+	box-sizing: border-box;
+}
+.botao{
+	width: 100%;
+	padding: 15px;
+	border: none;
+	background-color: #03112F;
+	color: #FFFFFF;
+	font-size: 16px;
+}
+
+
+
+
+
+
+
+
+
+
